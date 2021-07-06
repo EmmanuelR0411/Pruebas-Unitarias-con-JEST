@@ -1,0 +1,14 @@
+{
+  "name": "pruebasunitarias-jest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Emmanuel Reyna",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
